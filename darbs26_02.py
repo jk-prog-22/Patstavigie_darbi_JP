@@ -17,7 +17,14 @@ else:
 
 number=int(input("ievadi skaitli:"))
 if number % 2==0:
-    print("Vesels skaitlis")
+    print("Pāra skaitlis")
 else:
-    print("nepāra skaitlis")
+    print("Nepāra skaitlis")
+
+#4.uzdevums
+
+
+
+
+
 
